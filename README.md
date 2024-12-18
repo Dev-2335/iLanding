@@ -11,37 +11,31 @@ The iLanding Web Template is a modern, responsive landing page built with clean 
 1. **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 2. **Modern Aesthetics**: Clean and contemporary layout with professional typography.
 3. **Smooth Navigation**: Includes scrolling effects and interactive elements.
-4. **Customizable Sections**:
-   - Hero Banner
-   - Services
-   - Portfolio/Projects
-   - Team Introduction
-   - Contact Form
-5. **Built with Modern Web Technologies**:
-   - HTML5, CSS3, and JavaScript
+4. **Built with Modern Web Technologies**:
+   - HTML5, CSS3, Bootstrap and JavaScript
    - Bootstrap Framework for responsive grid system
-6. **Cross-Browser Compatibility**: Works seamlessly on Chrome, Firefox, Edge, and Safari.
-7. **SEO-Friendly**: Optimized HTML structure and metadata for search engines.
+5. **Cross-Browser Compatibility**: Works seamlessly on Chrome, Firefox, Edge, and Safari.
+6. **SEO-Friendly**: Optimized HTML structure and metadata for search engines.
 
 ---
 
 ## Getting Started
 
 ### Prerequisites
-- Basic knowledge of HTML, CSS, and JavaScript.
+- Basic knowledge of HTML, CSS, Bootstrap and JavaScript.
 - Code editor (e.g., VS Code, Sublime Text).
 - A modern web browser.
 
 ### Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dev-2335/iLanding
    ```
    Or download the ZIP file and extract it.
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd ilanding-template
+   cd ilanding
    ```
 
 3. **Open the Template in a Browser**:
