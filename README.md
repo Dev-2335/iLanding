@@ -29,7 +29,7 @@ The iLanding Web Template is a modern, responsive landing page built with clean 
 ### Installation
 1. **Clone or Download the Repository**:
    ```bash
-   git clone https://github.com/Dev-2335/iLanding
+   git clone https://github.com/Dev-2335/iLanding.git
    ```
    Or download the ZIP file and extract it.
 
