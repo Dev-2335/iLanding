@@ -60,7 +60,7 @@ The iLanding Web Template is a modern, responsive landing page built with clean 
 
 ## Contact
 For queries or support, please contact:
-- **Email**: [devpateldp1718@gmail.com]
+- **Email**: devpateldp1718@gmail.com
 - **GitHub**: [Dev-2335](https://github.com/Dev-2335/)
 
 Feel free to contribute or suggest improvements to this template!
